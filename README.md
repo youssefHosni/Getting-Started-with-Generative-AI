@@ -1,6 +1,9 @@
 # Getting-Started-with-Generative-AI
 A curated list of articles and tutorials to start with and understand generative AI
 
+![6441d5f76d21e1e4dee9ffa2_Gen AI blog_Blog hero](https://github.com/youssefHosni/Getting-Started-with-Generative-AI/assets/72076328/bd6ea757-64de-486e-bd67-cd3a9fac8580)
+
+
 * [Introduction to Generative AI: What It Is & Main Applications](https://medium.com/mlearning-ai/introduction-to-generative-ai-what-it-is-main-applications-9ddf9e9dc88f?sk=1c608870e625b87edd6820a42d55c7b5)
 
 * [What Are Large Language Models?](https://pub.towardsai.net/what-are-large-language-models-2da95a3d7023?sk=a10b5d5808b3f25ed0ab06921043e8b3)
