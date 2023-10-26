@@ -16,7 +16,7 @@ A curated list of articles and tutorials to start with and understand generative
 ## Introduction to Generative AI ##
 * [Introduction to Generative AI: What It Is & Main Applications](https://medium.com/mlearning-ai/introduction-to-generative-ai-what-it-is-main-applications-9ddf9e9dc88f?sk=1c608870e625b87edd6820a42d55c7b5)
 
-### Generative 
+### Generative Language Models & Applications ###
 
 * [What Are Large Language Models?](https://pub.towardsai.net/what-are-large-language-models-2da95a3d7023?sk=a10b5d5808b3f25ed0ab06921043e8b3)
 * [5 Challenges Come with Building LLM-Based Applications](https://levelup.gitconnected.com/5-challenges-come-with-building-llm-based-applications-5fbf8bca1a66?sk=bf23ad172f6b6b32b545a440380b02a9)
@@ -35,7 +35,7 @@ A curated list of articles and tutorials to start with and understand generative
 * [A Comprehensive Introduction to AutoGPT: What It Is & How to Use It?](https://pub.towardsai.net/a-comprehensive-introduction-to-autogpt-what-it-is-how-to-use-it-6cea265044ae?sk=e119d0a7f6d74088e1d3d673521f4ba6) 
 
 
-## Image Generation ## 
+## Generative Image Models & Applications ## 
 
 * [Comprehensive Introduction to AI Image Generation](https://pub.towardsai.net/comprehensive-introduction-to-ai-image-generation-b153f465c805?sk=dbbcfc1afbbf6822c40709195f1c5b06)
 ### GANS ###
