@@ -48,6 +48,8 @@ A curated list of articles and tutorials to start with and understand generative
 * [A Gentle Introduction to Generative Adversarial Networks (GANs)](https://pub.towardsai.net/a-gentle-introduction-to-generative-adversarial-networks-gans-cee76581ed22?sk=3e8e7021da6c8bd9c01d0960133fea04)
 * [You Probably Know GANs, But Do You Know How To Train It?](https://pub.towardsai.net/you-probably-know-gans-but-do-you-know-how-to-train-it-2573d574af12?sk=b803d0a68f15ddf72d7f69ee6501f8bf)
 * [How Can We Evaluate the Generated Images By GANs?](https://pub.towardsai.net/how-on-earth-can-we-evaluate-the-generated-images-by-gans-877e5e7e9fcd?sk=ab56a9aa31896f2fc48968959b0c4695)
+* [Overview of Important GANs Models & Applications](https://open.substack.com/pub/youssefh/p/overview-of-important-gans-models?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Building & Training GAN Model From Scratch In Python](https://open.substack.com/pub/youssefh/p/building-and-training-gan-model-from?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Building and Deploying a GAN Streamlit Web App on Heroku [Part 1]](https://pub.towardsai.net/building-and-deploying-a-gan-streamlit-web-app-on-heroku-part-1-8f962655c7a4?sk=3f76e614ac5de3b551384d160a9ec5a7)
 * [Building and Deploying a GAN Streamlit Web App on Heroku [Part 2]](https://pub.towardsai.net/building-and-deploying-a-gan-streamlit-web-app-on-heroku-part-2-f9c61e963b03?sk=f6b3e62ef791d81c4fc551161678cb79)
 
