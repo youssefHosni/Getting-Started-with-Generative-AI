@@ -7,9 +7,9 @@ A curated list of articles and tutorials to start with and understand generative
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Getting-Started-with-Generative-AI.svg)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/network/)
-[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awesome-Top-Computer-Vision-Papers.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-Top-Computer-Vision-Papers/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Getting-Started-with-Generative-AI.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Getting-Started-with-Generative-AI.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/network/)
+[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Getting-Started-with-Generative-AI.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/stargazers/)
 
 
 
