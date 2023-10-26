@@ -32,6 +32,8 @@ A curated list of articles and tutorials to start with and understand generative
 * [From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs](https://pub.towardsai.net/from-novice-to-expert-a-comprehensive-step-by-step-study-plan-for-mastering-llms-dc9feb60ecc4?sk=26b9ecdd113ce144fe9596eddedfa2c1)
 * [Top 10 Large Language Models GitHub Repository](https://levelup.gitconnected.com/top-10-large-language-models-github-repository-50ec95b5a7af?sk=68aac6bcbd2a8e8ea3f7933c6fc3ef1b)
 * [Top Resources to Learn & Understand RLHF](https://levelup.gitconnected.com/top-resources-to-learn-understand-rlhf-69f7984f1e58?sk=79d44cc8a12394a958545096643bc583)
+
+### LLM News & Trends ###
 * [Falcon40 LLM: The Top Recent Open-Source LLMs](https://yousefhosni.medium.com/falcon40-llm-the-top-recent-open-source-llms-50f0377466f0?sk=15f307662d92ad9313500466f71dce2f)
 * [Access GPT-4 for Free through these 4 Tools](https://pub.towardsai.net/access-gpt-4-for-free-through-these-4-tools-f548c9ca91d3?sk=f537f603826c6675b4e21d5178da2a0a)
 * [4 ChatGPT Tips To Be In The Top 1% of Its Users](https://levelup.gitconnected.com/4-chatgpt-tips-to-be-in-the-top-1-of-its-users-cb1274ffa268?sk=9358aacd06df1b651772fad7857eeba8)
