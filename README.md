@@ -11,12 +11,12 @@ A curated list of articles and tutorials to start with and understand generative
 [![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Getting-Started-with-Generative-AI.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/network/)
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Getting-Started-with-Generative-AI.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/stargazers/)
 
-
-
 ![6441d5f76d21e1e4dee9ffa2_Gen AI blog_Blog hero](https://github.com/youssefHosni/Getting-Started-with-Generative-AI/assets/72076328/bd6ea757-64de-486e-bd67-cd3a9fac8580)
 
-
+## Introduction to Generative AI ##
 * [Introduction to Generative AI: What It Is & Main Applications](https://medium.com/mlearning-ai/introduction-to-generative-ai-what-it-is-main-applications-9ddf9e9dc88f?sk=1c608870e625b87edd6820a42d55c7b5)
+
+### Generative 
 
 * [What Are Large Language Models?](https://pub.towardsai.net/what-are-large-language-models-2da95a3d7023?sk=a10b5d5808b3f25ed0ab06921043e8b3)
 * [5 Challenges Come with Building LLM-Based Applications](https://levelup.gitconnected.com/5-challenges-come-with-building-llm-based-applications-5fbf8bca1a66?sk=bf23ad172f6b6b32b545a440380b02a9)
