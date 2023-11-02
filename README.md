@@ -50,7 +50,7 @@ A curated list of articles and tutorials to start with and understand generative
 * [How Can We Evaluate the Generated Images By GANs?](https://pub.towardsai.net/how-on-earth-can-we-evaluate-the-generated-images-by-gans-877e5e7e9fcd?sk=ab56a9aa31896f2fc48968959b0c4695)
 * [Overview of Important GANs Models & Applications](https://open.substack.com/pub/youssefh/p/overview-of-important-gans-models?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Building & Training GAN Model From Scratch In Python](https://open.substack.com/pub/youssefh/p/building-and-training-gan-model-from?r=1sqbmi&utm_campaign=post&utm_medium=web)
-*[Building GANs Application and Deploying it on Streamlit & Heroku](https://open.substack.com/pub/youssefh/p/building-gans-application-and-deploying?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Building GANs Application and Deploying it on Streamlit & Heroku](https://open.substack.com/pub/youssefh/p/building-gans-application-and-deploying?r=1sqbmi&utm_campaign=post&utm_medium=web)
 ### Diffusion Models ###
 * [Unlocking the Mysteries of Diffusion Models: An In-Depth Exploration](https://pub.towardsai.net/unlocking-the-mysteries-of-diffusion-models-an-in-depth-exploration-aa02d2e44963?sk=1df2d84ab3dc316d7bef99e3e64270c4)
 * [Getting Started With Stable Diffusion](https://pub.towardsai.net/getting-started-with-stable-diffusion-f343639e4931?sk=83d8907e785577ee6cf2696f7c3772b4)
