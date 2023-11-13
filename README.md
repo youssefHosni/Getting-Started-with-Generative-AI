@@ -20,6 +20,7 @@ A curated list of articles and tutorials to start with and understand generative
 * [What Are Large Language Models?](https://pub.towardsai.net/what-are-large-language-models-2da95a3d7023?sk=a10b5d5808b3f25ed0ab06921043e8b3)
 * [5 Challenges Come with Building LLM-Based Applications](https://levelup.gitconnected.com/5-challenges-come-with-building-llm-based-applications-5fbf8bca1a66?sk=bf23ad172f6b6b32b545a440380b02a9)
 * [Vector Database: The Secret Behind Large Language Models Capabilities](https://levelup.gitconnected.com/vector-database-the-secret-behind-large-language-models-capabilities-7d4f6b714d16?sk=64c8c1b742d7a83523bb1781ee4ebf5e)
+* [Parameter-Efficient Fine-Tuning (PEFT): Fine-tune Large Language Models with Limited Resources](https://levelup.gitconnected.com/parameter-efficient-fine-tuning-peft-fine-tune-large-language-models-with-limited-resources-a42439196d34?sk=d82e41163ce72aced351644de45598c7)
 
 ### Projects  ###  
 * [Automating YouTube Script Writing with LangChain and Streamlit: A Step-by-Step Guide](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be?sk=f7f93f7cfbd3e59b8b079f444c2fd483)
