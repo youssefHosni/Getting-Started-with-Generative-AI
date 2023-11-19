@@ -42,7 +42,7 @@ A curated list of articles and tutorials to start with and understand generative
 * [Access GPT-4 for Free through these 4 Tools](https://pub.towardsai.net/access-gpt-4-for-free-through-these-4-tools-f548c9ca91d3?sk=f537f603826c6675b4e21d5178da2a0a)
 * [4 ChatGPT Tips To Be In The Top 1% of Its Users](https://levelup.gitconnected.com/4-chatgpt-tips-to-be-in-the-top-1-of-its-users-cb1274ffa268?sk=9358aacd06df1b651772fad7857eeba8)
 * [A Comprehensive Introduction to AutoGPT: What It Is & How to Use It?](https://pub.towardsai.net/a-comprehensive-introduction-to-autogpt-what-it-is-how-to-use-it-6cea265044ae?sk=e119d0a7f6d74088e1d3d673521f4ba6)
-* [https://levelup.gitconnected.com/dall-e3-is-out-here-is-what-you-need-to-know-about-it-fe1f8bbcf539?sk=7c6231f85b02b206aa6ed7484cb3e96c](https://levelup.gitconnected.com/dall-e3-is-out-here-is-what-you-need-to-know-about-it-fe1f8bbcf539?sk=7c6231f85b02b206aa6ed7484cb3e96c)
+* [DALL- E3 Is Out! Here Is What You Need to Know About It](https://levelup.gitconnected.com/dall-e3-is-out-here-is-what-you-need-to-know-about-it-fe1f8bbcf539?sk=7c6231f85b02b206aa6ed7484cb3e96c)
 
 
 ## Generative Image Models & Applications ## 
