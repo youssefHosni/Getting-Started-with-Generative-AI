@@ -24,6 +24,7 @@ A curated list of articles and tutorials to start with and understand generative
 
 ### Hands-On LangChain for LLM Applications Developments ### 
 * [Hands-On LangChain for LLM Applications Development: Documents Loading](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Hands-On LangChain for LLM Applications Development: Documents Splitting]()
 
 ### Projects  ###  
 * [Automating YouTube Script Writing with LangChain and Streamlit: A Step-by-Step Guide](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be?sk=f7f93f7cfbd3e59b8b079f444c2fd483)
