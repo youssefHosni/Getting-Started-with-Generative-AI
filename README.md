@@ -16,7 +16,7 @@ A curated list of articles and tutorials to start with and understand generative
 ## Introduction to Generative AI ##
 * [Introduction to Generative AI: What It Is & Main Applications](https://medium.com/mlearning-ai/introduction-to-generative-ai-what-it-is-main-applications-9ddf9e9dc88f?sk=1c608870e625b87edd6820a42d55c7b5)
 * [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 1]](https://open.substack.com/pub/youssefh/p/generative-ai-learning-roadmap-from?r=1sqbmi&utm_campaign=post&utm_medium=web)
-* [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 2]]()
+* [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 2]](https://open.substack.com/pub/youssefh/p/generative-ai-learning-roadmap-from-56d?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 3]]()
 
 ## Generative Language Models & Applications ##
@@ -27,8 +27,8 @@ A curated list of articles and tutorials to start with and understand generative
 
 ### Hands-On LangChain for LLM Applications Developments ### 
 * [Hands-On LangChain for LLM Applications Development: Documents Loading](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications?r=1sqbmi&utm_campaign=post&utm_medium=web)
-* [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 1] ]()
-* [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 2] ]()
+* [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 1] ](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-2d6?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 2] ](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-96e?r=1sqbmi&utm_campaign=post&utm_medium=web)
 
 ### Projects  ###  
 * [Automating YouTube Script Writing with LangChain and Streamlit: A Step-by-Step Guide](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be?sk=f7f93f7cfbd3e59b8b079f444c2fd483)
