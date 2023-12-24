@@ -25,11 +25,16 @@ A curated list of articles and tutorials to start with and understand generative
 * [Vector Database: The Secret Behind Large Language Models Capabilities](https://levelup.gitconnected.com/vector-database-the-secret-behind-large-language-models-capabilities-7d4f6b714d16?sk=64c8c1b742d7a83523bb1781ee4ebf5e)
 * [Parameter-Efficient Fine-Tuning (PEFT): Fine-tune Large Language Models with Limited Resources](https://levelup.gitconnected.com/parameter-efficient-fine-tuning-peft-fine-tune-large-language-models-with-limited-resources-a42439196d34?sk=d82e41163ce72aced351644de45598c7)
 
-### Hands-On LangChain for LLM Applications Developments ### 
+## Hands-On LangChain for LLM Applications Developments ## 
 * [Hands-On LangChain for LLM Applications Development: Documents Loading](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 1] ](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-2d6?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 2] ](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-96e?r=1sqbmi&utm_campaign=post&utm_medium=web)
-* [Hands-On LangChain for LLM Applications Development: Vector Database & Text Embeddings]()
+* [Hands-On LangChain for LLM Applications Development: Vector Database & Text Embeddings](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-943?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Hands-On LangChain for LLM Applications Development: Information Reterival]()
+
+## Prompt Engineering for Instruction-Tuned LLM ###
+* [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 1]](https://open.substack.com/pub/youssefh/p/prompt-engineering-best-practices?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 2]]()
 
 ### Projects  ###  
 * [Automating YouTube Script Writing with LangChain and Streamlit: A Step-by-Step Guide](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be?sk=f7f93f7cfbd3e59b8b079f444c2fd483)
