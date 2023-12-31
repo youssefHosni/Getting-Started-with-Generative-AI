@@ -30,12 +30,12 @@ A curated list of articles and tutorials to start with and understand generative
 * [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 1] ](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-2d6?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 2] ](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-96e?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Hands-On LangChain for LLM Applications Development: Vector Database & Text Embeddings](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-943?r=1sqbmi&utm_campaign=post&utm_medium=web)
-* [Hands-On LangChain for LLM Applications Development: Information Reterival]()
+* [Hands-On LangChain for LLM Applications Development: Information Reterival](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-5fe?r=1sqbmi&utm_campaign=post&utm_medium=web)
 
 ## Prompt Engineering for Instruction-Tuned LLM ###
 * [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 1]](https://open.substack.com/pub/youssefh/p/prompt-engineering-best-practices?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 2]](https://open.substack.com/pub/youssefh/p/prompt-engineering-best-practices-36e?r=1sqbmi&utm_campaign=post&utm_medium=web)
-* [Prompt Engineering for Instruction-Tuned LLM: Iterative Prompt Development]()
+* [Prompt Engineering for Instruction-Tuned LLM: Iterative Prompt Development](https://open.substack.com/pub/youssefh/p/prompt-engineering-for-instruction?r=1sqbmi&utm_campaign=post&utm_medium=web)
 
 ### Projects  ###  
 * [Automating YouTube Script Writing with LangChain and Streamlit: A Step-by-Step Guide](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be?sk=f7f93f7cfbd3e59b8b079f444c2fd483)
