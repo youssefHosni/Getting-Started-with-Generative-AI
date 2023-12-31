@@ -34,7 +34,8 @@ A curated list of articles and tutorials to start with and understand generative
 
 ## Prompt Engineering for Instruction-Tuned LLM ###
 * [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 1]](https://open.substack.com/pub/youssefh/p/prompt-engineering-best-practices?r=1sqbmi&utm_campaign=post&utm_medium=web)
-* [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 2]]()
+* [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 2]](https://open.substack.com/pub/youssefh/p/prompt-engineering-best-practices-36e?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Prompt Engineering for Instruction-Tuned LLM: Iterative Prompt Development]()
 
 ### Projects  ###  
 * [Automating YouTube Script Writing with LangChain and Streamlit: A Step-by-Step Guide](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be?sk=f7f93f7cfbd3e59b8b079f444c2fd483)
