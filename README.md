@@ -58,6 +58,17 @@ A curated list of articles and tutorials to start with and understand generative
 
 
 ## Generative Image Models & Applications ## 
+
+* [Introduction to Large Language Models with GPT & LangChain (DataCamp Code Along)](https://www.datacamp.com/code-along/introduction-to-large-language-models-gpt-langchain)
+* [Prompt Engineering with GPT & LangChain (DataCamp Code Along)](https://www.datacamp.com/code-along/prompt-engineering-gpt-langchain)
+* [Building Multimodal AI Applications with LangChain & the OpenAI API](https://www.datacamp.com/code-along/multimodal-ai-applications-langchain-openai-api)
+* [Semantic Search with Pinecone](https://www.datacamp.com/code-along/semantic-search-pinecone)
+[Retrieval Augmented Generation with OpenAI API & Pinecone (DataCamp Code Along)](https://www.datacamp.com/code-along/retrieval-augmented-generation-openai-api-pinecone)
+* [Building Chatbots with the OpenAI API & Pinecone (DataCamp Code Along)](https://www.datacamp.com/code-along/building-chatbots-openai-api-pinecone)
+[Using Open Source AI Models with Hugging Face (DataCamp Code Along)](https://www.datacamp.com/code-along/using-open-source-models-hugging-face)
+* [Building NLP Applications with Hugging Face (DataCamp Code Along)](https://www.datacamp.com/code-along/building-nlp-applications-hugging-face)
+* [Image Classification with Hugging Face (DataCamp Code Along)](https://www.datacamp.com/code-along/image-classification-hugging-face)
+
 ### Overview of Generative Image Models ###
 * [Comprehensive Introduction to AI Image Generation](https://pub.towardsai.net/comprehensive-introduction-to-ai-image-generation-b153f465c805?sk=dbbcfc1afbbf6822c40709195f1c5b06)
 
@@ -68,6 +79,7 @@ A curated list of articles and tutorials to start with and understand generative
 * [Overview of Important GANs Models & Applications](https://open.substack.com/pub/youssefh/p/overview-of-important-gans-models?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Building & Training GAN Model From Scratch In Python](https://open.substack.com/pub/youssefh/p/building-and-training-gan-model-from?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Building GANs Application and Deploying it on Streamlit & Heroku](https://open.substack.com/pub/youssefh/p/building-gans-application-and-deploying?r=1sqbmi&utm_campaign=post&utm_medium=web)
+
 ### Diffusion Models ###
 * [Unlocking the Mysteries of Diffusion Models: An In-Depth Exploration](https://pub.towardsai.net/unlocking-the-mysteries-of-diffusion-models-an-in-depth-exploration-aa02d2e44963?sk=1df2d84ab3dc316d7bef99e3e64270c4)
 * [Getting Started With Stable Diffusion](https://pub.towardsai.net/getting-started-with-stable-diffusion-f343639e4931?sk=83d8907e785577ee6cf2696f7c3772b4)
