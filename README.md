@@ -26,6 +26,15 @@ A curated list of articles and tutorials to start with and understand generative
 * [Parameter-Efficient Fine-Tuning (PEFT): Fine-tune Large Language Models with Limited Resources](https://levelup.gitconnected.com/parameter-efficient-fine-tuning-peft-fine-tune-large-language-models-with-limited-resources-a42439196d34?sk=d82e41163ce72aced351644de45598c7)
 
 ## Hands-On LangChain for LLM Applications Developments ## 
+
+### LangChain Basics ###
+* Hands-On LangChain for LLM Applications Development: Prompt Templates | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-5d9?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
+* Hands-On LangChain for LLM Applications Development: Output Parsing | [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-6dc?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
+* Hands-On LangChain for LLMs App: ChatBots Memory| [Article](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llms-app-chatbots?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
+* Hands-On LangChain for LLMs App Development: Chains | [Article](https://open.substack.com/pub/youssefh/p/understanding-langchain-chains-for?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
+
+### Retrieval Augmented Generation (RAG) with LangChain ###
+
 * [Hands-On LangChain for LLM Applications Development: Documents Loading](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 1] ](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-2d6?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Hands-On LangChain for LLM Applications Development: Documents Splitting [Part 2] ](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-96e?r=1sqbmi&utm_campaign=post&utm_medium=web)
