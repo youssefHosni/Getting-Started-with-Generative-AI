@@ -57,6 +57,12 @@ A curated list of articles and tutorials to start with and understand generative
 * [From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs](https://pub.towardsai.net/from-novice-to-expert-a-comprehensive-step-by-step-study-plan-for-mastering-llms-dc9feb60ecc4?sk=26b9ecdd113ce144fe9596eddedfa2c1)
 * [Top 10 Large Language Models GitHub Repository](https://levelup.gitconnected.com/top-10-large-language-models-github-repository-50ec95b5a7af?sk=68aac6bcbd2a8e8ea3f7933c6fc3ef1b)
 * [Top Resources to Learn & Understand RLHF](https://levelup.gitconnected.com/top-resources-to-learn-understand-rlhf-69f7984f1e58?sk=79d44cc8a12394a958545096643bc583)
+* [Top Resources to Master RAG: From Basic Level to Advanced](https://medium.com/towards-artificial-intelligence/top-resources-to-master-rag-from-basic-level-to-advanced-755a814d9348?sk=0e75d3790fbb62b5592b3858b4376cf8)
+* [Overview of LLM Quantization Techniques & Where to Learn Each of Them?](https://medium.com/@yousefhosni/overview-of-llm-quantization-techniques-where-to-learn-each-of-them-0d8599acfec8?sk=594f81f338f15bb211d9356a6537e476)
+* [6 Resources to Master Vector Databases & Building a Vector Storage](https://medium.com/gitconnected/6-resources-to-master-vector-databases-building-a-vector-storage-8d94ca1e3897?sk=1447d3e09380b72ded2edd380e354f22)
+* [5 Top Large Langauge Models Practical & Theoretical Courses](https://medium.com/gitconnected/5-top-large-langauge-models-practical-theoretical-courses-43e9f95da06e?sk=992bbfe34e923f3e3ebc9248eb5576c2)
+* [What is LLMOps and How to Get Started With It](https://medium.com/gitconnected/what-is-llmops-and-how-to-get-started-with-it-04002c25e081?sk=f127154bd466cca6b5aae3ce88774f6e)
+* 
 
 ### LLM News & Trends ###
 * [Falcon40 LLM: The Top Recent Open-Source LLMs](https://yousefhosni.medium.com/falcon40-llm-the-top-recent-open-source-llms-50f0377466f0?sk=15f307662d92ad9313500466f71dce2f)
